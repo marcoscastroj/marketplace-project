@@ -1,5 +1,6 @@
-# marketplace-project
+# Marketplace Project
 Marketplace project with Backend(Nodejs,Express.js) and Frontend(React and Tailwind)
+
 # Front-end Project
 
 ## Getting Started
@@ -53,6 +54,7 @@ Marketplace project with Backend(Nodejs,Express.js) and Frontend(React and Tailw
 
 8. **Logout Button**
    - A logout button is available in the right menu to allow users to log out of their accounts.
+   
 # Marketplace Back end
 
 ## Getting Started
