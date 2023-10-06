@@ -1,5 +1,5 @@
 # Marketplace Project
-Marketplace project with Backend(Nodejs,Express.js) and Frontend(React and Tailwind)
+Marketplace project with Backend(Nodejs,Express.js) and Frontend(Typescript React and Tailwind)
 
 # Front-end Project
 
